@@ -4,16 +4,22 @@
 
 full stack web, microservices, design & architecture, solving complex problems, continuous learning
 
-Email [shahidalyk@gmail.com](mailto:shahidalyk@gmail.com)
-LinkedIn [linkedin.com/in/shahidalyk/](https://www.linkedin.com/in/shahidalyk/)
-Github [github.com/xalkan](https://github.com/xalkan)
-Website [xalkan.github.io/skills/](https://xalkan.github.io/skills/)
+**Email** [shahidalyk@gmail.com](mailto:shahidalyk@gmail.com)
+
+**LinkedIn** [linkedin.com/in/shahidalyk/](https://www.linkedin.com/in/shahidalyk/)
+
+**Github** [github.com/xalkan](https://github.com/xalkan)
+
+**Website** [xalkan.github.io/skills/](https://xalkan.github.io/skills/)
 
 ## Skills
 
 Javascript, Typescript, Python, C++
+
 Angular, Node, Express
+
 Jest, Sequelize, Prisma
+
 PostgreSQL, Docker, Amazon AWS
 
 ## Employment
@@ -21,6 +27,7 @@ PostgreSQL, Docker, Amazon AWS
 ### Senior Software Engineer
 
 [EMPG LABS](https://www.crunchbase.com/organization/emerging-markets-property-group-empg)
+
 _Jun 2020 - Present_
 
 **Responsibilities**
@@ -43,6 +50,7 @@ _Jun 2020 - Present_
 ### Software Engineer
 
 [Landmark Resources](https://www.lmkr.com/company)
+
 _Jul 2017 - Jun 2020_
 
 **Responsibilities**
@@ -65,6 +73,7 @@ _Jul 2017 - Jun 2020_
 ### Web Developer (Remote)
 
 [Freelance Upwork](https://www.upwork.com/o/profiles/users/~014b920ea92adfc695/)
+
 _Dec 2010 - Aug 2012_
 
 **Responsibilities**
