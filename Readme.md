@@ -32,11 +32,15 @@ _Jun 2020 - Present_
 
 **Responsibilities**
 
-- Work on a suite of products to support the hyper-growth of company’s businesses in 8 countries.
-- Develop features for various full stack apps using typescript, node express, angular and MySQL.
-- Do test driven development using Jest, Mocha chai and Jasmine.
-- Work with tools such as Docker, CircleCI, Redis, Amazon Web Services EC2/ECR/ECS/S3.
-- Work with distributed teams in Romania and Pakistan.
+- Work on a suite of products to support the hyper-growth of the company's businesses in 16 countries. 
+- Develop features for various full stack apps using node.js stack: javascript, typescript, node express, angular. 
+- Participate in sprint planning, feature planning and e ort estimation with the product team. 
+- Participate in design & architecture sessions for data-intensive and scalable node.js apps using PostgreSQL, MySQL, MongoDB and redis databases. 
+- Do test driven development using node.js testing packages such as Jest, Mocha chai and Jasmine. 
+- Develop data layers using node.js packages such as Prisma & Sequelize. 
+- Work with tools such as Docker, CircleCI, Amazon Web Services EC2/ECR/ECS/S3/RDS to create deployment environments and pipelines for node.js web apps. 
+- Ensure code quality standards for javascript & typescript by de ning processes such as automated test suites, code reviews, pull request work ow, linters and code formatters. 
+- Work with remote distributed teams in Romania and Pakistan. 
 
 **Achievements**
 
@@ -55,11 +59,9 @@ _Jul 2017 - Jun 2020_
 
 **Responsibilities**
 
-- Develop features in the data and platform layer of suite of windows
-  apps in C++/C# and .Net stack.
-- Work with development, testing and product teams as well as clients
-  to plan and deliver features and releases.
-- Follow agile scrum with a distributed team in the United States.
+- Develop features in the data and platform layer of the suite of apps. 
+- Work with development, testing and product teams as well as clients to plan and deliver features and releases. 
+- Follow agile scrum with a remote distributed team in the United States. 
 
 **Achievements**
 
@@ -78,7 +80,8 @@ _Dec 2010 - Aug 2012_
 
 **Responsibilities**
 
-Searching for contract work, communicating with clients, delivering projects according to requirements, billing clients and closing contracts.
+- Searching for contract work, communicating with clients, delivering projects according to requirements, billing clients and closing contracts.
+- Develop web apps using javascript. 
 
 **Achievements**
 
